@@ -1,0 +1,22 @@
+{
+  "name": "backtech",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "node server/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DC-hashimoto-naoki/backtech.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DC-hashimoto-naoki/backtech/issues"
+  },
+  "homepage": "https://github.com/DC-hashimoto-naoki/backtech#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
